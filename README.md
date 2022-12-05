@@ -1,9 +1,3 @@
-# Guessing Game
-
-The first project for the first class of CS11 in the year 2022
-
-Steps for success!
-
 1. Generate a random number (included in boilerplate)
 2. Take a user input (included in boilerplate)
 3. Check if the input is the same as the random number
