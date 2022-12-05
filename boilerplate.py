@@ -127,8 +127,7 @@ while n!= guess:
     else:
       break
 print("you guessed it right!!")
-if  guess > 3 : print ("you lose")
-if guess > 3 : restart
+if  guessed > 3 : print ("you lose"), restart
 n = random.randrange(1,10)
 guess = int(input("Enter any number: "))
 while n!= guess:
